@@ -1,5 +1,5 @@
 <h1 align="center">👋 Salut, je suis <span style="color:#00ADB5">Russel TAPTUE</span></h1>
-<h3 align="center">Ingénieur en Transformation Digitale | Cloud ☁️ | Cybersécurité 🔒 | DevOps ⚙️</h3>
+<h3 align="center">Ingénieur en Transformation Digitale | Cloud | Cybersécurité | DevOps </h3>
 
 ---
 
@@ -11,15 +11,6 @@
 ---
 
 ### 🚀 Mes projets récents  
-
-#### 🔹 [**Infrastructure Réseau avec DNS, DHCP & pfSense**](https://github.com/russel-taptue/DNS-DHCP-pfSense)  
-> Configuration complète d’une infrastructure réseau sécurisée incluant :  
-> - Installation et configuration des serveurs **DNS** et **DHCP** sous Linux  
-> - Déploiement et paramétrage d’un **pare-feu pfSense**  
-> - Tests de connectivité, gestion du routage et filtrage du trafic réseau  
-> 🧩 Objectif : maîtriser les bases d’une architecture réseau fiable et sécurisée  
-
----
 
 #### 🔹 [**Configuration Mikrotik**](https://github.com/russel-taptue/Configuration-Mikrotik)  
 > Tutoriel complet sur la **mise en place, la configuration et la gestion d’un routeur Mikrotik** :  
