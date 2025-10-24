@@ -1,75 +1,50 @@
-<!-- 👋 README de profil GitHub - Russel TAPTUE -->
+# 👋 Bonjour, je suis Russel TAPTUE
 
-<h1 align="center">👋 Salut, je suis <span style="color:#00ADB5">Russel TAPTUE</span></h1>
-<h3 align="center">💻 Administrateur Système & Réseau | 🔐 Passionné de Cybersécurité</h3>
-
----
-
-### 🧠 À propos de moi
-💡 Je suis un passionné d’informatique, de réseaux et de cybersécurité.  
-🎯 Mon objectif : concevoir, sécuriser et automatiser les infrastructures IT.  
-🌍 Basé au Cameroun | Disponible pour projets et collaborations techniques.  
-⚙️ J’aime comprendre les systèmes en profondeur — des protocoles réseau aux scripts d’automatisation.  
+Développeur / Administrateur système passionné par l’informatique, les réseaux et la cybersécurité.
 
 ---
 
-### 🚀 Mes projets récents
-
-🔹 [**Active Directory Monitoring SIEM avec Splunk**](https://github.com/russel-taptue/Active-Directory-Monitoring-SIEM-avec-Splunk)  
-→ Supervision et analyse des logs Active Directory via Splunk.
-
-🔹 [**Configuration Mikrotik**](https://github.com/russel-taptue/Configuration-Mikrotik)  
-→ Tutoriel détaillé sur la mise en place et la configuration d’un routeur Mikrotik.
-
-🔹 [**Serveur DHCP Linux (Kea)**](https://github.com/russel-taptue/Configuration-serveur-DHCP-sur-linux-avec-kea-dhcp4-server)  
-→ Installation et configuration d’un serveur DHCP avec Kea sur Ubuntu.
+## 🔭 Ce sur quoi je travaille  
+- Supervision & monitoring : j’ai mis en place des solutions comme …  
+- Configuration réseau et sécurité : expérience avec pfSense, Bind9, etc.  
+- Automatisation & scripts : shell, Python, etc.  
+- Infrastructure (DHCP, DNS, routeurs, firewalls) : par exemple configuration serveur DHCP avec Kea.  
 
 ---
 
-### 🧰 Stack & Compétences
-
-#### 🔧 Réseaux & Infrastructure
-`Linux` • `Mikrotik` • `pfSense` • `DHCP` • `DNS` • `Routing` • `Firewall`
-
-#### 🧠 Supervision & Sécurité
-`Splunk` • `Active Directory` • `Syslog` • `Audit` • `SIEM` • `Network Monitoring`
-
-#### ⚙️ Automatisation & Scripting
-`Bash` • `Python` • `PowerShell`
-
-#### ☁️ Cloud & Conteneurs (en apprentissage)
-`Docker` • `Kubernetes` • `AWS` • `Azure`
+## 🌱 Actuellement j’apprends  
+- Technologies cloud (AWS, Azure)  
+- Conteneurs & orchestration (Docker, Kubernetes)  
+- Sécurité offensive et audits réseau  
 
 ---
 
-### 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=russel-taptue&show_icons=true&theme=tokyonight" alt="stats GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=russel-taptue&theme=tokyonight" alt="streak" />
-</p>
-
----
-
-### 🌐 Me retrouver
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/russel-taptue" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/russel-taptue" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:tonemail@exemple.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+## 🧰 Compétences techniques  
+| Domaine                | Outils / Technologies                          |
+|------------------------|-----------------------------------------------|
+| Systèmes & Réseaux     | Linux, Mikrotik, pfSense, DHCP, DNS           |
+| Monitoring & SIEM      | Splunk, Active Directory, logs, alerting      |
+| Scripting & Automatisation | Bash, Python                             |
+| Sécurité & Pare-feu    | Firewalls, VPN, audits, hardening             |
 
 ---
 
-### ⚡ Fun fact
-> Quand je ne configure pas un serveur, je joue avec les scripts ou je regarde des vidéos sur la cybersécurité 😄  
+## 📂 Quelques projets récents  
+- [Active-Directory-Monitoring-SIEM-avec-Splunk](https://github.com/russel-taptue/Active-Directory-Monitoring-SIEM-avec-Splunk) : supervision AD & logs avec Splunk.  
+- [Configuration-Mikrotik](https://github.com/russel-taptue/Configuration-Mikrotik) : tutoriel de configuration de routeur Mikrotik.  
+- [Configuration-serveur-DHCP-sur-linux-avec-kea-dhcp4-server](https://github.com/russel-taptue/Configuration-serveur-DHCP-sur-linux-avec-kea-dhcp4-server) : mise en place d’un serveur DHCP sur Ubuntu avec Kea.  
+*(Ajoute les liens vers les autres projets qui te paraissent importants.)*
 
 ---
 
-⭐️ _N’hésite pas à suivre mes projets ou à me contacter pour échanger sur le monde des systèmes et réseaux !_  
+## 📫 Comment me joindre  
+- LinkedIn : [https://www.linkedin.com/in/russel-taptue](https://www.linkedin.com/in/russel-taptue)  
+- GitHub : [https://github.com/russel-taptue](https://github.com/russel-taptue)  
+*(Ajoute ton email ou autre contact pro si souhaité.)*
+
+---
+
+## ⚡ Fun fact  
+Quand je ne suis pas devant un écran, j’explore : l'art culinaire, le sport. 
+
+
