@@ -1,48 +1,61 @@
-<!-- 👋 README de profil GitHub - Russel TAPTUE -->
-
 <h1 align="center">👋 Salut, je suis <span style="color:#00ADB5">Russel TAPTUE</span></h1>
-<h3 align="center">💻 Administrateur Système & Réseau | 🔐 Passionné de Cybersécurité</h3>
+<h3 align="center">Ingénieur en Transformation Digitale | Cloud ☁️ | Cybersécurité 🔒 | DevOps ⚙️</h3>
 
 ---
 
-### 🧠 À propos de moi
-💡 Je suis un passionné d’informatique, de réseaux et de cybersécurité.  
-🎯 Mon objectif : concevoir, sécuriser et automatiser les infrastructures IT.  
-🌍 Basé au Cameroun | Disponible pour projets et collaborations techniques.  
-⚙️ J’aime comprendre les systèmes en profondeur — des protocoles réseau aux scripts d’automatisation.  
+### 🧠 À propos de moi  
+💡 Passionné par l’informatique, le cloud et la cybersécurité, j’aide les entreprises à renforcer et moderniser leurs infrastructures IT.  
+🚀 Mon objectif : **concevoir des systèmes performants, sécurisés et automatisés**.  
+🔍 Curieux et rigoureux, j’aime comprendre les technologies en profondeur — du réseau jusqu’au cloud.  
 
 ---
 
-### 🚀 Mes projets récents
+### 🚀 Mes projets récents  
 
-🔹 [**Active Directory Monitoring SIEM avec Splunk**](https://github.com/russel-taptue/Active-Directory-Monitoring-SIEM-avec-Splunk)  
-→ Supervision et analyse des logs Active Directory via Splunk.
-
-🔹 [**Configuration Mikrotik**](https://github.com/russel-taptue/Configuration-Mikrotik)  
-→ Tutoriel détaillé sur la mise en place et la configuration d’un routeur Mikrotik.
-
-🔹 [**Serveur DHCP Linux (Kea)**](https://github.com/russel-taptue/Configuration-serveur-DHCP-sur-linux-avec-kea-dhcp4-server)  
-→ Installation et configuration d’un serveur DHCP avec Kea sur Ubuntu.
+#### 🔹 [**Infrastructure Réseau avec DNS, DHCP & pfSense**](https://github.com/russel-taptue/DNS-DHCP-pfSense)  
+> Configuration complète d’une infrastructure réseau sécurisée incluant :  
+> - Installation et configuration des serveurs **DNS** et **DHCP** sous Linux  
+> - Déploiement et paramétrage d’un **pare-feu pfSense**  
+> - Tests de connectivité, gestion du routage et filtrage du trafic réseau  
+> 🧩 Objectif : maîtriser les bases d’une architecture réseau fiable et sécurisée  
 
 ---
 
-### 🧰 Stack & Compétences
-
-#### 🔧 Réseaux & Infrastructure
-`Linux` • `Mikrotik` • `pfSense` • `DHCP` • `DNS` • `Routing` • `Firewall`
-
-#### 🧠 Supervision & Sécurité
-`Splunk` • `Active Directory` • `Syslog` • `Audit` • `SIEM` • `Network Monitoring`
-
-#### ⚙️ Automatisation & Scripting
-`Bash` • `Python` • `PowerShell`
-
-#### ☁️ Cloud & Conteneurs (en apprentissage)
-`Docker` • `Kubernetes` • `AWS` • `Azure`
+#### 🔹 [**Configuration Mikrotik**](https://github.com/russel-taptue/Configuration-Mikrotik)  
+> Tutoriel complet sur la **mise en place, la configuration et la gestion d’un routeur Mikrotik** :  
+> - Paramétrage des interfaces et routage statique  
+> - Configuration du NAT et du pare-feu  
+> - Gestion des utilisateurs et supervision du trafic  
+> 🧠 Objectif : renforcer les compétences en administration et sécurité des réseaux  
 
 ---
 
-### 📊 Statistiques GitHub
+#### 🔹 [**Active Directory Monitoring SIEM avec Splunk**](https://github.com/russel-taptue/Active-Directory-Monitoring-SIEM-avec-Splunk)  
+> Projet de **supervision et détection d’incidents** dans un environnement Active Directory :  
+> - Collecte et analyse des logs via **Splunk**  
+> - Mise en place de tableaux de bord de sécurité  
+> - Détection d’activités suspectes et alertes en temps réel  
+> 🔒 Objectif : améliorer la visibilité et la sécurité du système d’information  
+
+---
+
+### 🧰 Stack & Compétences  
+
+#### 🔧 Réseaux & Infrastructure  
+`Linux` • `pfSense` • `DNS` • `DHCP` • `Routing` • `Firewall` • `Mikrotik`  
+
+#### 🧠 Supervision & Sécurité  
+`Splunk` • `SIEM` • `Syslog` • `Audit` • `Active Directory` • `Network Monitoring`  
+
+#### ⚙️ Automatisation & Scripting  
+`Bash` • `Python` • `PowerShell`  
+
+#### ☁️ Cloud & Conteneurs (en apprentissage)  
+`AWS` • `Azure` • `Docker` • `Kubernetes`  
+
+---
+
+### 📈 Statistiques GitHub  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=russel-taptue&show_icons=true&theme=tokyonight" alt="stats GitHub" />
@@ -51,7 +64,7 @@
 
 ---
 
-### 🌐 Me retrouver
+### 🌐 Me retrouver  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/russel-taptue" target="_blank">
@@ -60,16 +73,11 @@
   <a href="https://github.com/russel-taptue" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:tonemail@exemple.com" target="_blank">
+  <a href="mailto:taptuerussel@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### ⚡ Fun fact
-> Quand je ne configure pas un serveur, je joue avec les scripts ou je regarde des vidéos sur la cybersécurité 😄  
-
----
-
-⭐️ _N’hésite pas à suivre mes projets ou à me contacter pour échanger sur le monde des systèmes et réseaux !_  
+⭐️ _Merci de visiter mon profil ! N’hésite pas à suivre mes projets ou à échanger avec moi sur la cybersécurité, le cloud ou le DevOps._  
