@@ -163,8 +163,6 @@ Developed comprehensive deployment framework for Debian 12 Bookworm servers, pro
 - ☁️ Cloud migration and DevOps transformation initiatives
 - 💡 Technology consulting and strategic planning
 
-**Contact me at:** [taptuerussel@gmail.com](mailto:taptuerussel@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/russel-taptue)
-
 ---
 
 _Professional portfolio showcasing enterprise infrastructure expertise. Last updated: March 2026_
