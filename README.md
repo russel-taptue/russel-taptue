@@ -26,10 +26,10 @@ Seasoned Digital Transformation Engineer with proven expertise in designing and 
 ## 🛠️ Technical Stack
 
 ### 🔧 Networks & Infrastructure
-`Linux` • `pfSense` • `Mikrotik` • `DNS` • `DHCP` • `Routing` • `Firewall Configuration`
+`Linux` • `pfSense` • `Mikrotik` • `Cisco` • `DNS` • `DHCP` • `Routing` • `Firewall Configuration`
 
 ### 🔒 Supervision & Security
-`Splunk` • `SIEM` • `Active Directory` • `Network Monitoring` • `Security Auditing` • `Incident Detection`
+`Splunk` • `SIEM` • `Wazuh` • `Active Directory` • `Network Monitoring` • `Security Auditing` • `Incident Detection`
 
 ### ⚙️ Automation & Scripting
 `Bash` • `Python` • `PowerShell` • `Infrastructure as Code`
