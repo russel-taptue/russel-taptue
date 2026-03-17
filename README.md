@@ -1,4 +1,4 @@
-# � Russel TAPTUE
+# Russel TAPTUE
 ### Digital Transformation Engineer | Infrastructure Architect | Cloud & Cybersecurity Specialist
 
 **Driving secure, scalable infrastructure solutions through strategic technology implementation**
@@ -115,14 +115,6 @@ Developed comprehensive deployment framework for Debian 12 Bookworm servers, pro
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=russel-taptue&show_icons=true&theme=tokyonight)
-
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=russel-taptue&theme=tokyonight)
-
----
-
 ## 🎯 What I'm Currently Doing
 
 - 🚀 Expanding expertise in **Kubernetes orchestration**
@@ -138,13 +130,13 @@ Developed comprehensive deployment framework for Debian 12 Bookworm servers, pro
 |----------|--------|
 | **Infrastructure** | Linux Admin, Network Design, Routing, Firewalls |
 | **Security** | Network Security, SIEM, Threat Detection, Access Control |
-| **Cloud** | AWS, Azure, Docker, Kubernetes, PostgreSQL HA |
+| **Cloud** | AWS, Azure, Docker, PostgreSQL HA |
 | **Automation** | Bash, Python, PowerShell, IaC |
 | **Tools** | Splunk, pfSense, Mikrotik, Active Directory, Bind9, Kea |
 
 ---
 
-## � Professional Opportunities
+## Professional Opportunities
 
 **I'm actively seeking roles aligned with my expertise:**
 - 🏢 Infrastructure Architect
@@ -160,7 +152,6 @@ Developed comprehensive deployment framework for Debian 12 Bookworm servers, pro
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/russel-taptue)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@cyberwithtaptue)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taptuerussel@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/russel-taptue)
 
 ---
 
