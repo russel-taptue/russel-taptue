@@ -28,23 +28,14 @@ My key areas of focus are:
 
 ## 🛠️ Technical Skills
 
-  -----------------------------------------------------------------------
-  Area                                Tools & Technologies
-  ----------------------------------- -----------------------------------
-  **SOC & SIEM**                      Wazuh, Splunk, Microsoft Sentinel,
-                                      Microsoft Defender, ELK
-
-  **DFIR**                            Volatility 3, Velociraptor, Sysmon,
-                                      Wireshark
-
-  **Cloud**                           Microsoft Azure, AWS
-
-  **Network Security**                pfSense, Suricata, Zeek, Cisco
-
-  **Systems**                         Linux, Windows, Active Directory
-
-  **Scripting**                       Python, Bash, PowerShell
-  -----------------------------------------------------------------------
+ | **Area** | **Tools & Technologies** |
+|---|---|
+| **SOC & SIEM** | Wazuh, Splunk, Microsoft Sentinel, Microsoft Defender, ELK |
+| **DFIR** | Volatility 3, Velociraptor, Sysmon, Wireshark |
+| **Cloud** | Microsoft Azure, AWS |
+| **Network Security** | pfSense, Suricata, Zeek, Cisco |
+| **Systems** | Linux, Windows, Active Directory |
+| **Scripting** | Python, Bash, PowerShell |
 
 ------------------------------------------------------------------------
 
