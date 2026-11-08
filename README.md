@@ -1,168 +1,119 @@
 # Russel TAPTUE
-### Digital Transformation Engineer | Infrastructure Architect | Cloud & Cybersecurity Specialist
 
-**Driving secure, scalable infrastructure solutions through strategic technology implementation**
+### Cybersecurity Analyst \| SOC \| Cloud Security \| Digital Forensics & Incident Response
 
----
+**Threat detection. Security monitoring. Digital investigations.
+Incident response.**
 
-## 💼 Professional Summary
+------------------------------------------------------------------------
 
-Seasoned Digital Transformation Engineer with proven expertise in designing and implementing enterprise-grade infrastructure solutions. Specialized in building resilient, secure, and automated systems that reduce operational risk and accelerate business growth.
+## 👨‍💻 About Me
 
-**Core Value Proposition:**
-- 🔐 **Security-First Infrastructure**: Design secure network architectures with advanced threat detection and monitoring
-- ⚙️ **Automation & Efficiency**: Implement infrastructure-as-code solutions reducing deployment time by up to 80%
-- ☁️ **Cloud Modernization**: Guide organizations through digital transformation with AWS, Azure, and hybrid cloud strategies
-- 📊 **Operational Excellence**: Establish monitoring, alerting, and incident response capabilities for 24/7 uptime
+I am a Cybersecurity Professional with a strong interest in
+defending digital environments, investigating security incidents, and
+improving organizational security.
 
-**Key Specializations:**
-- Enterprise Infrastructure & Network Architecture
-- Security Operations Center (SOC) & SIEM Implementation
-- Cloud Infrastructure & DevOps Pipeline Development
-- Infrastructure Automation & IaC
+My key areas of focus are:
 
----
+-   **SOC Operations:** SIEM, log analysis, threat detection, and threat
+    hunting.
+-   **Cloud Security:** Azure, AWS, identity management, and cloud
+    monitoring.
+-   **Digital Forensics & Incident Response:** Memory forensics,
+    endpoint investigation, and incident handling.
+-   **Network Security:** Firewalls, intrusion detection, traffic
+    analysis, and network defense.
 
-## 🛠️ Technical Stack
+------------------------------------------------------------------------
 
-### 🔧 Networks & Infrastructure
-`Linux` • `pfSense` • `Mikrotik` • `Cisco` • `DNS` • `DHCP` • `Routing` • `Firewall Configuration`
+## 🛠️ Technical Skills
 
-### 🔒 Supervision & Security
-`Splunk` • `SIEM` • `Wazuh` • `Active Directory` • `Network Monitoring` • `Security Auditing` • `Incident Detection`
+  -----------------------------------------------------------------------
+  Area                                Tools & Technologies
+  ----------------------------------- -----------------------------------
+  **SOC & SIEM**                      Wazuh, Splunk, Microsoft Sentinel,
+                                      Microsoft Defender, ELK
 
-### ⚙️ Automation & Scripting
-`Bash` • `Python` • `PowerShell` • `Infrastructure as Code`
+  **DFIR**                            Volatility 3, Velociraptor, Sysmon,
+                                      Wireshark
 
-### ☁️ Cloud & Containers (Learning)
-`AWS` • `Azure` • `Docker` • `Kubernetes` • `PostgreSQL HA`
+  **Cloud**                           Microsoft Azure, AWS
 
----
+  **Network Security**                pfSense, Suricata, Zeek, Cisco
+
+  **Systems**                         Linux, Windows, Active Directory
+
+  **Scripting**                       Python, Bash, PowerShell
+  -----------------------------------------------------------------------
+
+------------------------------------------------------------------------
 
 ## 🌟 Featured Projects
 
-### 🔹 [PostgreSQL HA with Patroni, Etcd & HAProxy](https://github.com/russel-taptue/postgresql-ha-patroni-etcd-haproxy)
-**Enterprise-Grade Database Resilience Solution**
+### 1. [Automated SOC Lab with Elastic Security](https://github.com/russel-taptue/Automated-SOC-Lab-with-Elastic-Security)
 
-Designed and implemented advanced database clustering architecture achieving zero-downtime deployments and automatic failover capabilities. This solution addresses critical business requirements for data availability in high-stakes environments.
+**SOC Operations & Incident Response**
 
-**Business Impact:**
-- Eliminated single points of failure in database infrastructure
-- Automated failover reducing RTO (Recovery Time Objective) to <1 minute
-- Load-balanced cluster supporting mission-critical applications
+A practical SOC environment focused on security monitoring, detection
+engineering, attack simulation, and incident investigation.
 
-**Technical Expertise:** PostgreSQL • High Availability Architecture • Load Balancing • Etcd Consensus • Infrastructure Orchestration
+*Technologies: Elastic Security, Sysmon, Windows, Linux.*
 
----
+### 2. [Active Directory Monitoring with Splunk](https://github.com/russel-taptue/Active-Directory-Monitoring-SIEM-avec-Splunk)
 
-### 🔹 [Active Directory Monitoring SIEM with Splunk](https://github.com/russel-taptue/Active-Directory-Monitoring-SIEM-avec-Splunk)
-**Security Operations Center (SOC) Implementation**
+**SIEM & Threat Detection**
 
-Built comprehensive security monitoring and incident detection platform for Active Directory environments. Delivers real-time visibility into security events, enabling rapid threat identification and response.
+A SIEM implementation for centralized Active Directory log monitoring,
+security event analysis, and suspicious activity detection.
 
-**Business Impact:**
-- Real-time detection of unauthorized access attempts and anomalous behavior
-- Centralized security dashboards for incident response teams
-- Automated alerting reducing mean-time-to-detect (MTTD) for security incidents
-- Compliance-ready audit trails for regulatory requirements
+*Technologies: Splunk, Active Directory, Windows.*
 
-**Technical Expertise:** SIEM Architecture • Security Event Analysis • Active Directory Auditing • Log Aggregation • Threat Detection
+### 3. [Phishing Awareness Simulation](https://github.com/russel-taptue/Phishing-Awareness-Simulation-University-of-Bamenda-Cyber-Week-2026)
 
----
+**Phishing Analysis & Security Awareness**
 
-### 🔹 [pfSense Advanced Configuration](https://github.com/russel-taptue/Configuration-pfsense)
-**Enterprise Network Perimeter Security**
+A phishing awareness campaign conducted during University of Bamenda
+Cyber Week 2026 using GoPhish and Microsoft Azure.
 
-Implemented advanced firewall architecture providing multi-layered network protection and controlled access for enterprise environments. Configured secure remote access capabilities supporting distributed workforce requirements.
+*Technologies: GoPhish, Microsoft Azure, Ubuntu Server.*
 
-**Business Impact:**
-- Multi-layered network defense reducing attack surface
-- Secure VPN infrastructure enabling remote workforce productivity
-- Granular firewall policies protecting critical business assets
-- NAT and load balancing supporting network scalability
+### 4. [pfSense Advanced Configuration](https://github.com/russel-taptue/Configuration-pfsense)
 
-**Technical Expertise:** Firewall Administration • Network Security Architecture • VPN Implementation • NAT/Port Forwarding • Network Access Control
+**Network & Infrastructure Security**
 
----
+Practical firewall configuration covering traffic filtering, network
+access control, NAT, and VPN implementation.
 
-### 🔹 [DNS and DHCP Setup on Ubuntu Server](https://github.com/russel-taptue/DNS-and-DHCP-setup-on-ubuntu-server)
-**Core Network Services Infrastructure**
+*Technologies: pfSense, Firewall, VPN, Network Security.*
 
-Deployed reliable DNS and DHCP services on Ubuntu Server, providing foundational network services for enterprise environments. Ensures seamless device connectivity and name resolution across the organization.
+------------------------------------------------------------------------
 
-**Business Impact:**
-- Reliable IP address management reducing network configuration errors
-- High-performance DNS services supporting organizational growth
-- Centralized network device management enabling scalability
-- Reduced downtime through redundant services configuration
+## 🎓 Certifications
 
-**Technical Expertise:** DNS Administration • DHCP Server Configuration • Linux System Administration • Network Services Architecture
+-   Fortinet Certified Associate in Cybersecurity
+-   Cisco CCNA
+-   Python Essentials
 
----
+------------------------------------------------------------------------
 
-### 🔹 [Debian 12 Bookworm Server Installation Step-by-Step](https://github.com/russel-taptue/Debian-12-bookworm-server-installation-step-by-step)
-**Server Infrastructure Deployment Framework**
+## 💼 Professional Interests
 
-Developed comprehensive deployment framework for Debian 12 Bookworm servers, providing standardized, production-ready configurations that accelerate server provisioning and ensure consistency across infrastructure.
+Open to opportunities as:
 
-**Business Impact:**
-- Accelerated server deployment reducing time-to-production
-- Standardized infrastructure configurations ensuring consistency
-- Security hardening reducing vulnerability exposure
-- Repeatable processes supporting rapid scaling
+-   SOC Analyst
+-   Cybersecurity Analyst
+-   Cloud Security Analyst
+-   Digital Forensics Analyst
+-   Incident Response Analyst
 
-**Technical Expertise:** Linux Server Administration • Debian System Configuration • Production Hardening • Infrastructure Standardization
+------------------------------------------------------------------------
 
----
-
-## 🎯 What I'm Currently Doing
-
-- 🚀 Expanding expertise in **Kubernetes orchestration**
-- ☁️ Deepening **AWS and Azure** cloud architecture knowledge
-- 🔐 Advanced security and **threat detection** implementations
-- 📚 Building scalable **infrastructure-as-code** solutions
-
----
-
-## 📈 Core Competencies
-
-| Category | Skills |
-|----------|--------|
-| **Infrastructure** | Linux Admin, Network Design, Routing, Firewalls |
-| **Security** | Network Security, SIEM, Threat Detection, Access Control |
-| **Cloud** | AWS, Azure, Docker, PostgreSQL HA |
-| **Automation** | Bash, Python, PowerShell, IaC |
-| **Tools** | Splunk, pfSense, Mikrotik, Active Directory, Bind9, Kea |
-
----
-
-## Professional Opportunities
-
-**I'm actively seeking roles aligned with my expertise:**
-- 🏢 Infrastructure Architect
-- 🔐 Security Operations Engineer / SOC Manager
-- ☁️ Cloud Infrastructure Engineer
-- 🛠️ DevOps/SRE Engineer
-- 💼 Solutions Architect
-
----
-
-## 🌐 Professional Network
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/russel-taptue)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@cyberwithtaptue)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taptuerussel@gmail.com)
 
----
+------------------------------------------------------------------------
 
-## 📬 Collaboration & Employment Inquiries
-
-**Interested in working together?** I'm open to discussing:
-- 🏗️ Infrastructure modernization and architecture projects
-- 🔒 Security operations and threat detection implementations
-- ☁️ Cloud migration and DevOps transformation initiatives
-- 💡 Technology consulting and strategic planning
-
----
-
-_Professional portfolio showcasing enterprise infrastructure expertise. Last updated: March 2026_
+*Building skills. Investigating threats. Securing digital environments.*
